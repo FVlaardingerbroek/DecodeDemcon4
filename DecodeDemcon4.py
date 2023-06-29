@@ -1,6 +1,7 @@
 ﻿# Demcon Challenge #4 – Festival Schedule Generator
 # https://werkenbijdemcon.nl/challenge-4-festival-schedule-generator/
-# 
+# Author: FVlaardingerbroek
+# Date: 2023-06-29
 
 import sys
 import os
